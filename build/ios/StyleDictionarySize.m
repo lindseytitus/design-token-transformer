@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 21:24:39 GMT
+// Generated on Wed, 05 May 2021 22:44:53 GMT
 //
 
 #import "StyleDictionarySize.h"
