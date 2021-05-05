@@ -299,5 +299,12 @@
   "EffectLayerBlurType": "layerBlur",
   "EffectLayerBlurRadius": 4,
   "EffectBackgroundBlurType": "backgroundBlur",
-  "EffectBackgroundBlurRadius": 4
+  "EffectBackgroundBlurRadius": 4,
+  "LindseyPrimary100": "rgba(0, 0, 56, 1)",
+  "LindseyPrimary60": "rgba(0, 81, 175, 1)",
+  "LindseyPrimary50": "rgba(0, 118, 213, 1)",
+  "LindseyPrimary20": "rgba(0, 188, 235, 1)",
+  "LindseyPrimary10": "rgba(182, 217, 242, 1)",
+  "LindseyPrimary05": "rgba(206, 230, 252, 1)",
+  "LindseyPrimary0": "rgba(230, 241, 252, 1)"
 }

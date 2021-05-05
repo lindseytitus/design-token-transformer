@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 20:59:44 GMT
+// Generated on Wed, 05 May 2021 21:07:26 GMT
 //
 
 
@@ -235,6 +235,13 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
+    public static let lindseyPrimary0 = rgba(230, 241, 252, 1)
+    public static let lindseyPrimary05 = rgba(206, 230, 252, 1)
+    public static let lindseyPrimary10 = rgba(182, 217, 242, 1)
+    public static let lindseyPrimary100 = rgba(0, 0, 56, 1)
+    public static let lindseyPrimary20 = rgba(0, 188, 235, 1)
+    public static let lindseyPrimary50 = rgba(0, 118, 213, 1)
+    public static let lindseyPrimary60 = rgba(0, 81, 175, 1)
     public static let motionDissolveDuration = 0.45
     public static let motionDissolveEasing = cubic-bezier
     public static let motionDissolveEasingFunctionX1 = 0.6968395709991455
